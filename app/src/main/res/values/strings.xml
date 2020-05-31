@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Deprem App</string>
-    <string name="buttonWiFiOn">Open WiFi</string>
-    <string name="buttonWiFiOff">Close WiFi</string>
-    <string name="buttonScan">Scan P2P</string>
-    <string name="buttonSend">Send</string>
-
-</resources>
